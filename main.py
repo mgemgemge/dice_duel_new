@@ -5,7 +5,7 @@ import json
 import os
 
 # === НАСТРОЙКИ ===
-BOT_TOKEN = "8289019477:AAGpiWhTBmenOnN8wret3q1gD1xA4kkvfCM"  # ← замени на свой!
+BOT_TOKEN = "8289019477:AAEcpZIpOsTzpN1h9phzKEv3GVJcbxMM3f4"  # ← замени на свой!
 BALANCE_FILE = "balances.json"
 
 # Загружаем балансы
